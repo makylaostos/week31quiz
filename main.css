@@ -1,0 +1,20 @@
+/* Customize container */
+@media (min-width: 48em) {
+  .container{
+      padding: 20px; 
+    max-width: 46rem;
+    background-color: white;
+    border-radius: 16px;
+  }
+}
+
+body{
+    background: url(http://lorempixel.com/400/200/); no-repeat center fixed;
+    background-size: cover;
+}
+
+/* Customize heading */
+.heading {
+    text-align: center;
+}
+
